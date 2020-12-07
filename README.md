@@ -43,9 +43,12 @@ XML file example:
 4 0.564000 0.497500 0.832000 0.995000
 ```
 ## Data organization
-1. Put all .xml files in a directory: this will be the "source" directory, from which the code will take the data to convert (*1.PNG*).   
+1. Put all .xml files in a directory: this will be the "source" directory, from which the code will take the data to convert (*1.PNG*). 
+![alt text](https://github.com/bi94/voc2yoloconv/blob/main/1.png)
 2. Create a new directory, in which .txt files will be put after conversion (*2.PNG*). 
+![alt text](https://github.com/bi94/voc2yoloconv/blob/main/2.png)
 3. Write a text file in which the names of all classes (**one for each line**) will be contained (*3.PNG*).  
+![alt text](https://github.com/bi94/voc2yoloconv/blob/main/3.png)
 ## How to run in cmd
 Run with command:
 ```
