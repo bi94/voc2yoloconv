@@ -1,0 +1,7 @@
+container
+bag
+cardboard
+chair
+refrigerator
+television
+washing_machine
